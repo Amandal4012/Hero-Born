@@ -2,8 +2,6 @@ using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.AI;
-using Unity.AI.Navigation;
 public class HeroB : MonoBehaviour
 {
     public int RotationSpeed = 100;
